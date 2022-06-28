@@ -502,7 +502,7 @@ const Home = (props: HomeProps) => {
   }, [refreshCandyMachineState]);
 
   return (
-    <Container style={{ marginTop: 400 }}>
+    <Container style={{ marginTop: 450 }}>
 
       <Container maxWidth="xs" style={{ position: 'relative' }}>
       
